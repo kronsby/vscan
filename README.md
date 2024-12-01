@@ -34,4 +34,4 @@ vscan -address scanme.nmap.org -ports 21,80,443,8080
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/url?sa=E&source=gmail&q=LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
