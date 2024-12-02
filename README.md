@@ -1,3 +1,4 @@
+![build](https://github.com/kronsby/vscan/actions/workflows/go.yml/badge.svg)
 ## vscan - A Simple TCP Scanner
 
 **vscan** is a lightweight TCP scanner written in Go. It's designed to be easy to use while still providing the functionality needed for basic port scanning.
